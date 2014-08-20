@@ -1,0 +1,14 @@
+{
+  "name": "d3-color-cie-luv-xyz",
+  "version": "0.20140820.0",
+  "author": "Daniel Gerber",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dgerber/d3-color-cie-luv-xyz.git"
+  },
+  "dependencies": {
+    "d3": ""
+  },
+  "license": "AGPL-3.0",
+  "main": "d3-color-cie-luv-xyz.js"
+}
