@@ -1,8 +1,4 @@
----
-title: d3-color-cie-luv-xyz
-...
-
-CIE [L\*u\*v\*](http://en.wikipedia.org/wiki/CIELUV) and [XYZ](https://en.wikipedia.org/wiki/CIE_XYZ_color_space) color spaces in [d3.js](http://d3js.org).
+### CIE [L\*u\*v\*](http://en.wikipedia.org/wiki/CIELUV) and [XYZ](https://en.wikipedia.org/wiki/CIE_XYZ_color_space) color spaces in [d3.js](http://d3js.org)
 
 This plugin defines constructors and interpolating functions analogous to the [native ones](https://github.com/mbostock/d3/wiki/Colors):
 
